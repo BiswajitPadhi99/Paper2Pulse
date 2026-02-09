@@ -5,7 +5,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![iOS](https://img.shields.io/badge/iOS-16.0+-000000.svg)](https://www.apple.com/ios/)
 
-Official implementation of **"Robust Neural ECG Digitization for Multi-Modal Interpretation Using Signals and Images"** (KDD 2026).
+Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG Digitization, Classification, and On-Device Deployment"** (KDD 2026).
 
 [📄 Paper](#) | [🎬 Demo Video](#demo-video) | [📱 iOS App](#ios-application) | [📊 Dataset](#ecg-paper-1k-dataset) | [🤗 Models](#pretrained-models)
 
