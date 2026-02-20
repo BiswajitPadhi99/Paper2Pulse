@@ -494,7 +494,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 - **Biswajit Padhi** - padhi.3@osu.edu
-- **Ping Zhang** - zhang.10631@osu.edu
 
 For questions about the paper, code, or dataset, please open an issue or contact us directly.
 
