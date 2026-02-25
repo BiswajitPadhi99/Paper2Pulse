@@ -1,0 +1,15 @@
+# Xcode
+*.xcuserstate
+app/xcuserdata/
+app/DerivedData/
+app/.build/
+
+# Large files (use Git LFS instead)
+# *.mlmodelc  # Uncomment if not using LFS
+
+# macOS
+app/.DS_Store
+app/project.pbxproj
+
+
+RREADME-old.md
