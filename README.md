@@ -12,10 +12,14 @@ Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG
 
 ## 🎬 Demo Video
 
-<!-- DEMO VIDEO -->
+<!-- DEMO VIDEO PLACEHOLDER -->
 <p align="center">
-  https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE
+  <a href="https://youtube.com/shorts/wCeSsWQ7mJs?feature=share">
+    <img src="assets/demo_thumbnail.png" width="70%" alt="Demo Video Thumbnail"/>
+  </a>
 </p>
+
+**[▶️ Watch Full Demo on YouTube](https://youtube.com/shorts/wCeSsWQ7mJs?feature=share)**
 
 The demo showcases:
 - 📸 Capturing an ECG photograph with the iOS app
