@@ -5,10 +5,12 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![iOS](https://img.shields.io/badge/iOS-16.0+-000000.svg)](https://www.apple.com/ios/)
 
-Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG Digitization, Classification, and On-Device Deployment"** (KDD 2026).
+Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG Digitization, Diagnosis, and On-Device Deployment"** (KDD 2026).
 
-## 🔬 Overview
-**Paper2Pulse** is an end-to-end framework for transforming degraded paper ECG photographs into accurate diagnostic predictions. Our system bridges the gap between paper-based ECG archives—common in resource-limited healthcare settings—and modern AI-powered cardiac analysis.
+## Overview
+
+**Paper2Pulse** transforms degraded paper ECG photographs into accurate diagnostic predictions. The system addresses a critical gap in resource-limited healthcare settings where ECG data exists only as paper printouts photographed on mobile phones, inaccessible to automated diagnostic systems.
+
 
 ## 🎬 Demo Video
 
@@ -27,4 +29,49 @@ The demo showcases:
 - 📋 Classification results with confidence scores
 - 📤 Signal export for external analysis
 
+## Installation
+
+### Clone the Repository
+
+```bash
+# Install Git LFS first (required for model files)
+brew install git-lfs
+git lfs install
+
+# Clone the repository
+git clone https://github.com/BiswajitPadhi99/Paper2Pulse.git
+cd Paper2Pulse
+git lfs pull
+```
+Next, refer the README.md in each folder for their task specific instructions.
+
+## Repository Structure
+
+```
+Paper2Pulse/
+├── Paper2Pulse-D/          # Digitization pipeline
+├── Paper2Pulse-C/          # Classification model
+├── data/                   # ECG-Paper-1K (50-sample preview)
+└── app/                    # iOS application
+```
+
+## Components
+
+| Component | Description |
+|-----------|-------------|
+| **Paper2Pulse-D** | Three-step digitization: keypoint detection → grid localization → signal extraction |
+| **Paper2Pulse-C** | Hybrid CNN-Transformer classifier for digitized 12-lead signals |
+| **ECG-Paper-1K** | 1,000 smartphone photographs with ground-truth signals and diagnostic labels |
+| **iOS App** | Fully on-device pipeline — no internet required |
+
+## Citation
+
+```bibtex
+@inproceedings{padhi2026paper2pulse,
+  title     = {Paper2Pulse: An End-to-End Framework for Paper ECG Digitization, Diagnosis, and On-Device Deployment},
+  author    = {Padhi, Biswajit and Yin, Changchang and Wang, Pengqi and Cao, Weidan and Zhang, Ping},
+  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year      = {2026}
+}
+```
 ---
