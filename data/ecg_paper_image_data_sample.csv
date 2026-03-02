@@ -1,0 +1,51 @@
+image_filename,record,labels,rotation,fold,wrinkle,hw_text,device
+00012_hr-0.jpg,00012_hr,NORM,1,0,0,0,samsung
+01027_hr-0.jpg,01027_hr,NORM,0,0,0,0,samsung
+01032_hr-0.jpg,01032_hr,HYP,1,0,1,1,samsung
+01067_hr-0.jpg,01067_hr,NORM,0,0,1,0,samsung
+01086_hr-0.jpg,01086_hr,NORM,1,0,1,0,samsung
+01103_hr-0.jpg,01103_hr,HYP,0,0,1,0,samsung
+01109_hr-0.jpg,01109_hr,"MI, CD",0,0,1,0,samsung
+01137_hr-0.jpg,01137_hr,"NORM, STTC",1,0,1,1,samsung
+01185_hr-0.jpg,01185_hr,"CD, STTC",1,0,1,0,samsung
+01226_hr-0.jpg,01226_hr,NORM,0,0,1,0,samsung
+01286_hr-0.jpg,01286_hr,NORM,0,0,1,0,samsung
+01336_hr-0.jpg,01336_hr,NORM,1,0,0,0,samsung
+01354_hr-0.jpg,01354_hr,"NORM, CD",1,0,1,0,samsung
+01408_hr-0.jpg,01408_hr,NORM,1,0,1,0,samsung
+01442_hr-0.jpg,01442_hr,NORM,0,0,1,1,samsung
+01613_hr-0.jpg,01613_hr,NORM,0,0,1,1,samsung
+01630_hr-0.jpg,01630_hr,NORM,0,1,0,0,samsung
+01669_hr-0.jpg,01669_hr,NORM,1,0,1,0,samsung
+01803_hr-0.jpg,01803_hr,"STTC, HYP",1,1,0,0,samsung
+01844_hr-0.jpg,01844_hr,MI,1,1,0,0,samsung
+01869_hr-0.jpg,01869_hr,NORM,1,0,1,0,samsung
+01879_hr-0.jpg,01879_hr,"NORM, CD",1,0,1,0,samsung
+01885_hr-0.jpg,01885_hr,NORM,1,0,1,0,samsung
+01924_hr-0.jpg,01924_hr,"MI, HYP, STTC",0,1,0,0,samsung
+02100_hr-0.jpg,02100_hr,NORM,1,0,1,1,samsung
+02190_hr-0.jpg,02190_hr,NORM,1,0,1,0,samsung
+02256_hr-0.jpg,02256_hr,STTC,1,1,0,1,samsung
+02292_hr-0.jpg,02292_hr,NORM,0,1,0,0,samsung
+02326_hr-0.jpg,02326_hr,NORM,1,1,0,0,samsung
+02328_hr-0.jpg,02328_hr,NORM,1,0,1,0,samsung
+02339_hr-0.jpg,02339_hr,NORM,1,0,1,0,samsung
+02374_hr-0.jpg,02374_hr,NORM,1,0,1,1,samsung
+02378_hr-0.jpg,02378_hr,STTC,1,0,1,1,samsung
+02533_hr-0.jpg,02533_hr,NORM,0,1,0,0,samsung
+02579_hr-0.jpg,02579_hr,NORM,1,1,0,1,samsung
+02652_hr-0.jpg,02652_hr,NORM,1,1,0,1,samsung
+02694_hr-0.jpg,02694_hr,NORM,1,1,0,0,samsung
+02768_hr-0.jpg,02768_hr,NORM,0,0,1,0,samsung
+02780_hr-0.jpg,02780_hr,NORM,0,0,1,0,samsung
+02794_hr-0.jpg,02794_hr,"NORM, CD",1,0,1,0,samsung
+02851_hr-0.jpg,02851_hr,NORM,1,1,0,0,samsung
+02858_hr-0.jpg,02858_hr,HYP,0,1,0,0,samsung
+02932_hr-0.jpg,02932_hr,NORM,1,1,0,0,samsung
+02945_hr-0.jpg,02945_hr,NORM,0,0,1,0,samsung
+03089_hr-0.jpg,03089_hr,NORM,1,0,1,0,samsung
+03150_hr-0.jpg,03150_hr,"MI, STTC, HYP",1,1,0,0,samsung
+03156_hr-0.jpg,03156_hr,NORM,0,1,0,1,samsung
+03182_hr-0.jpg,03182_hr,NORM,1,1,0,0,samsung
+03195_hr-0.jpg,03195_hr,MI,1,0,1,0,samsung
+03259_hr-0.jpg,03259_hr,NORM,0,1,0,0,samsung
