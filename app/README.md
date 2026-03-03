@@ -69,21 +69,7 @@ MMECG captures or loads an image of a standard 12-lead ECG printout, extracts th
 
 ---
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-# Install Git LFS first (required for model files)
-brew install git-lfs
-git lfs install
-
-# Clone the repository
-git clone https://github.com/BiswajitPadhi99/mmecg-ios-app.git
-cd mmecg-ios-app
-```
-
-### 2. Open in Xcode
+## Open in Xcode
 
 ```bash
 open MMECG/MMECG.xcodeproj
