@@ -16,7 +16,7 @@ Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG
 
 <!-- DEMO VIDEO -->
 <p align="center">
-  <video src="img/ECG_Analyzer_Demo_Vid.mov" width="40%" controls="controls"></video>
+  <video src="https://github.com/BiswajitPadhi99/Paper2Pulse/raw/main/img/ECG_Analyzer_Demo_Vid.mov" width="40%" controls="controls"></video>
 </p>
 The demo showcases:
 - 📸 Capturing an ECG photograph with the iOS app
