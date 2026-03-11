@@ -16,12 +16,8 @@ Official implementation of **"Paper2Pulse: An End-to-End Framework for Paper ECG
 
 <!-- DEMO VIDEO -->
 <p align="center">
-  <a href="https://youtube.com/shorts/wCeSsWQ7mJs">
-    <img src="https://img.youtube.com/vi/wCeSsWQ7mJs/maxresdefault.jpg" width="40%" alt="Demo Video"/>
-  </a>
+  <video src="img/ECG_Analyzer_Demo_Vid.mov" width="40%" controls="controls"></video>
 </p>
-
-**[▶️ Watch Full Demo](https://youtube.com/shorts/wCeSsWQ7mJs)**
 The demo showcases:
 - 📸 Capturing an ECG photograph with the iOS app
 - ⚡ Real-time digitization and signal extraction
